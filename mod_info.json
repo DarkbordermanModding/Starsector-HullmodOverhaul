@@ -1,0 +1,9 @@
+{
+	"id":"darkborderman.hullmodoverhaul",
+	"name":"Hullmod Overhaul",
+	"author":"Darkborderman",
+	"version":"0.0.0",
+	"description":"Add more hullmods to Starsector",
+	"gameVersion":"0.95.1a-RC6",
+	"jars": ["jars/hullmodoverhaul.jar"]
+}

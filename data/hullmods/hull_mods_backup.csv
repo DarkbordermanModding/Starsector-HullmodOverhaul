@@ -1,0 +1,19 @@
+name,id,tier,rarity,tags,uiTags,base value,unlocked,hidden,hiddenEverywhere,tech/manufacturer,cost_frigate,cost_dest,cost_cruiser,cost_capital,script,desc,short,sprite
+,,,,,,,,,,,,,,,,,,
+Damaged mod display,hmo_dmod_heavy,2,,"offensive",Defenses,15000,,,,HMO,5,10,15,25,data.hullmods.decoration.dmod.LightDmod,,,graphics/hullmods/omni_shield_emitter.png
+,,,,,,,,,,,,,,,,,,
+Remote repair,hmo_remote_repair,2,,"offensive",Defenses,15000,,,,HMO,5,10,15,25,data.hullmods.hmo_remote_repair,,,graphics/hullmods/omni_shield_emitter.png
+,,,,,,,,,,,,,,,,,,
+Drone Deployment,hmo_drone_deployments,2,,"offensive",Defenses,15000,,,,HMO,5,10,15,25,data.hullmods.DroneDeployment,,,graphics/hullmods/omni_shield_emitter.png
+,,,,,,,,,,,,,,,,,,
+Extreme Frugality,hmo_extreme_frugality,2,,"decoration",Decoration,15000,,,,HMO,0,0,0,0,data.hullmods.economy.ExtremeFrugality,,,graphics/hullmods/expanded_deck_crew.png
+Stable Flux System,hmo_stablefluxsystem,2,,"offensive",Defenses,15000,,,,HMO,5,10,15,25,data.hullmods.hmo_stablefluxsystem,"Reduce overload recover time by %s",Reduce flux overload time,graphics/hullmods/omni_shield_emitter.png
+Maintainence Crew,hmo_maintaincrew,2,,"offensive",Defenses,15000,,,,HMO,5,10,15,25,data.hullmods.hmo_maintaincrew,"Increse maximun CR rate by %s",Increase CR rate,graphics/hullmods/expanded_deck_crew.png
+PD Override,hmo_pdoverride,2,,"offensive",Defenses,15000,,,,HMO,5,10,15,25,data.hullmods.hmo_pdoverride,,,graphics/hullmods/expanded_deck_crew.png
+,,,,,,,,,,,,,,,,,,
+Aluminum Hull,hmo_aluminum_hull,2,,"offensive",Defenses,15000,,,,HMO,5,10,15,25,data.hullmods.combat.AluminumHull,,,graphics/hullmods/reinforced_bulkheads.png
+,,,,,,,,,,,,,,,,,,
+Mining Drill,hmo_mining_drill,2,,"offensive",Defenses,15000,,,,HMO,5,10,15,25,data.hullmods.economy.MiningDrill,,,graphics/hullmods/expanded_deck_crew.png
+Meth lab,hmo_methlab,2,,"offensive",Defenses,15000,,,,HMO,5,10,15,25,data.hullmods.economy.MethLab,,,graphics/icons/markets/organized_crime.png
+,,,,,,,,,,,,,,,,,,
+Fighter Upgrade: Shield generator,hmo_fighter_shield,2,,"offensive",Defenses,15000,,,,HMO,5,10,15,25,data.hullmods.combat.FighterShield,,,graphics/hullmods/omni_shield_emitter.png
