@@ -45,6 +45,7 @@ task release(type: Zip) {
     include 'mod_info.json'
     archiveName archivesBaseName + '-' + cmdOutput + '.zip'
     destinationDir(file('bin/'))
+    into archivesBaseName + '-' + cmdOutput
 }
 
 clean {
