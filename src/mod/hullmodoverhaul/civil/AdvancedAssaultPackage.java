@@ -10,12 +10,9 @@ import com.fs.starfarer.api.impl.hullmods.MilitarizedSubsystems;
 
 public class AdvancedAssaultPackage extends BaseHullMod {
 
-//	public static float FLUX_PERCENT = 25f;
-//	public static float HULL_PERCENT = 25f;
-//	public static float ARMOR_PERCENT = 25f;
-	public static float FLUX_CAPACITY_PERCENT = 10f;
-	public static float HULL_PERCENT = 10f;
-	public static float ARMOR_PERCENT = 5f;
+	public static float FLUX_CAPACITY_PERCENT = 50f;
+	public static float HULL_PERCENT = 50f;
+	public static float ARMOR_PERCENT = 25f;
 
 	public void applyEffectsBeforeShipCreation(HullSize hullSize, MutableShipStatsAPI stats, String id) {
 		float mult = MilitarizedSubsystems.getEffectMult(stats);
