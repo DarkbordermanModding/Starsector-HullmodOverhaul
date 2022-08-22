@@ -5,3 +5,5 @@ Advanced Assault Package,advanced_assault_package,1,,"defensive, civ_package","S
 # logistics hullmods,,,,,,,,,,,,,,,,,,
 Cargo to fuel,cargo_to_fuel,1,,"req_spaceport, merc","Logistics, Requires Dock",8000,,,,HMO,5,10,15,20,mod.hullmodoverhaul.docks.CargoToFuel,"Change all cargo storage to fuel storage, stacks with other modifier, suggested to use this hullmod in latest order",cargo to fuel,graphics/hullmods/fuel_tanks.png
 Fuel to cargo,fuel_to_cargo,1,,"req_spaceport, merc","Logistics, Requires Dock",8000,,,,HMO,5,10,15,20,mod.hullmodoverhaul.docks.FuelToCargo,"Change all fuel storage to cargo storage, stacks with other modifier, suggested to use this hullmod in latest order",fuel to cargo,graphics/hullmods/expanded_cargo.png
+# testing,,,,,,,,,,,,,,,,,,
+Testing,testing,1,,"","",8000,TRUE,,,HMO,0,0,0,0,mod.hullmodoverhaul.testing,"Change all cargo storage to fuel storage, stacks with other modifier, suggested to use this hullmod in latest order",cargo to fuel,graphics/hullmods/fuel_tanks.png
