@@ -4,7 +4,7 @@ import com.fs.starfarer.api.impl.hullmods.BaseLogisticsHullMod;
 import com.fs.starfarer.api.combat.MutableShipStatsAPI;
 import com.fs.starfarer.api.combat.ShipAPI.HullSize;
 
-public class StorageToFuel extends BaseLogisticsHullMod {
+public class CargoToFuel extends BaseLogisticsHullMod {
 
     public void applyEffectsBeforeShipCreation(HullSize hullSize, MutableShipStatsAPI stats, String id) {
         float storage = stats.getVariant().getHullSpec().getCargo();
